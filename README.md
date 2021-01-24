@@ -9,4 +9,4 @@ The goal of this project is to create a work day planner that allows users to sa
 ![image](https://user-images.githubusercontent.com/75334749/105647346-a2743080-5e6a-11eb-97ac-c4453f011937.png)
 
 ####
-https://github.com/Dustymick/work-day-scheduler/settings
+https://dustymick.github.io/work-day-scheduler/
