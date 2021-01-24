@@ -6,6 +6,7 @@ The goal of this project is to create a work day planner that allows users to sa
 -When a user selects a time block they can input a task, and after selecting the save button, the data is saved in local storage.
 
 ###
+![image](https://user-images.githubusercontent.com/75334749/105647346-a2743080-5e6a-11eb-97ac-c4453f011937.png)
 
 ####
 https://github.com/Dustymick/work-day-scheduler/settings
